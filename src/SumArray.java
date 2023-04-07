@@ -22,9 +22,9 @@
 //
 
 public class SumArray {
-    public static double sum(double[] numbers) {
+    public double sum(double[] numbers) {
 
-        numbers = new double[]{1.1, 2.2, 3.3};
+        //numbers = new double[]{1.1, 2.2, 3.3};
 
         double a = 0;
 
@@ -35,8 +35,3 @@ public class SumArray {
         }
     }
 
-
-
-
-
-}
